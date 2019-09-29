@@ -4,11 +4,11 @@ Nitro - Fully Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
+Edited / Personalized by: Eugy Han
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
-
 
 CREDITS:
 
